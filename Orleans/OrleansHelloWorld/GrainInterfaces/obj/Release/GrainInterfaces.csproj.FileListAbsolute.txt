@@ -1,0 +1,3 @@
+E:\Orleans\OrleansHelloWorld\GrainInterfaces\obj\Release\GrainInterfaces.csprojAssemblyReference.cache
+E:\Orleans\OrleansHelloWorld\GrainInterfaces\obj\Release\GrainInterfaces.exe.config
+E:\Orleans\OrleansHelloWorld\GrainInterfaces\obj\Release\GrainInterfaces.csproj.OrleansCodeGenInputs.cache
